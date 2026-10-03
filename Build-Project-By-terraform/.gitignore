@@ -1,0 +1,12 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.pem
+target/
+*.war
+*.jar
+target/
+*.war
+*.jar
+*.log
